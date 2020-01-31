@@ -1,0 +1,25 @@
+https://www.kaggle.com/akshay235/bert-implementation-on-ner-corpus
+
+https://www.depends-on-the-definition.com/named-entity-recognition-with-bert/
+
+
+https://towardsdatascience.com/bert-in-keras-with-tensorflow-hub-76bcbc9417b
+
+https://github.com/strongio/keras-bert
+
+
+java 8
+
+https://www.javahelps.com/2015/03/install-oracle-jdk-in-ubuntu.html
+
+https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+https://www.apache.org/dyn/closer.cgi/tika/tika-server-1.23.jar
+
+java -jar tika-server-x.x.jar --port xxxx
+
+from tika import parser
+raw = parser.from_file('sample.pdf')
+print(raw['content'])
+
+

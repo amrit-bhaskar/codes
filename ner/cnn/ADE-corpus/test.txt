@@ -1,0 +1,98 @@
+DRUG-DOSE	16	4	The pharmaceutical company producing Halfan has reported 8 cardiac arrests, leading to 6 deaths, when a higher dose than recommended was used, there was recent or concomitant treatment with mefloquine, there was pre-existing prolongation of the QT interval or the patient had a thiamine deficiency.
+DRUG-AE	0	5	Scleroderma-like reaction induced by uracil-tegafur (UFT), a second-generation anticancer agent.
+DRUG-DOSE	28	27	We report a case of drug-induced Kaposi's sarcoma (KS) on the sole of the right foot in a 71-year-old man, treated for 6 months with corticosteroid therapy (prednisolone 25 mg/day) for pericardial effusion.
+DRUG-AE	7	13	The two middle aged women presented with respiratory symptoms after prolonged treatment with nitrofurantoin.
+DRUG-AE	6	16	The development of erythroid leukemia plus carcinoma in these two men suggests mutagenic change secondary to cyclophosphamide therapy.
+DRUG-AE	27	11	The present report illustrates a rare case of refractory akathisia after interferon-alpha treatment and also that levodopa treatment would be theoretically and practically useful in reducing the neurotoxicity associated with interferon-alpha.
+DRUG-DOSE	23	19	We report a case of pancytopenia in a 23-year-old man with Crohn's disease who was treated with 5-aminosalicylic acid (Pentasa; Nisshin, Tokyo, Japan) 3.0 g/day.
+DRUG-DOSE	8	10	In case 1, a total daily dose of 25 mg sertraline, with nondetectable sertraline and desmethylsertraline blood levels, resulted in a doubling of the lamotrigine blood level with symptoms of toxicity.
+DRUG-AE	22	17	The case histories are presented of two patients who developed lung disease associated with the use of nitrofurantoin with histological features of bronchiolitis obliterans organising pneumonia (BOOP), a rare but recognised form of drug induced injury.
+DRUG-DOSE	1	11	How low can you go? Use of very low dosage of gold in patients with mucocutaneous reactions.
+DRUG-AE	0	11	Sagittal sinus thrombosis associated with transient free protein S deficiency after L-asparaginase treatment: case report and review of the literature.
+DRUG-AE	6	6	This is the first report of UFT-induced scleroderma-like reaction.
+DRUG-DOSE	10	11	FINDINGS: Six children with growth retardation noted after treatment with high-dose fluticasone propionate were found to have adrenal suppression.
+DRUG-AE	7	11	Intravenous administration of levodopa ameliorated a refractory akathisia case induced by interferon-alpha.
+DRUG-AE	8	7	This is the first report of a fluoxetine-related death in a child with a confirmed genetic polymorphism of the CYP2D6 gene that results in impaired drug metabolism.
+DRUG-DOSE	10	8	In a postural challenge test after administration of isosorbide dinitrate (5 mg), blood pressure decreased from 120/67 to 65/35 mmHg, followed by syncope with a sudden decrease in pulse rate from 85 to 60 beats/min.
+DRUG-DOSE	22	7	The evidence of high plasmatic levels of CBZ and the absence of other aetiologic factors lead the authors to conclude that the overdose of CBZ could have represented the precipitating of the episode of acute pancreatitis.
+DRUG-DOSE	16	14	Hydrocortisone may decrease the incidence of mortality associated with cardiac arrhythmias in children receiving amphotericin B overdoses.
+DRUG-DOSE	9	10	Growth and adrenal suppression in asthmatic children treated with high-dose fluticasone propionate.
+DRUG-DOSE	23	17	We report a case of pancytopenia in a 23-year-old man with Crohn's disease who was treated with 5-aminosalicylic acid (Pentasa; Nisshin, Tokyo, Japan) 3.0 g/day.
+DRUG-AE	5	11	We describe a case of interstitial hypoxaemiant pneumonitis probably related to flecainide in a patient with the LEOPARD syndrome, a rare congenital disorder.
+DRUG-DOSE	8	15	In case 1, a total daily dose of 25 mg sertraline, with nondetectable sertraline and desmethylsertraline blood levels, resulted in a doubling of the lamotrigine blood level with symptoms of toxicity.
+DRUG-AE	7	7	We suggest that the previous classification of nitrofurantoin induced lung injury into "acute" and "chronic" injury is an oversimplification in view of the wide variety of pathological entities that have subsequently emerged.
+DRUG-AE	9	11	The present report illustrates a rare case of refractory akathisia after interferon-alpha treatment and also that levodopa treatment would be theoretically and practically useful in reducing the neurotoxicity associated with interferon-alpha.
+DRUG-AE	5	8	The medical examiner's report indicated death caused by fluoxetine toxicity.
+DRUG-AE	16	27	We report the case of an adult patient with acute lymphoblastic leukemia who presented with repeated transient ischemic attacks followed by a seizure during consolidation treatment with L-asparaginase.
+DRUG-DOSE	3	1	CONCLUSIONS: Amphotericin B overdose can be fatal in children and infants.
+DRUG-AE	10	17	The case histories are presented of two patients who developed lung disease associated with the use of nitrofurantoin with histological features of bronchiolitis obliterans organising pneumonia (BOOP), a rare but recognised form of drug induced injury.
+DRUG-AE	0	4	Acute erythroid leukemia after cyclophosphamide therapy for multiple myeloma: report of two cases.
+DRUG-DOSE	2	0	Amphotericin B overdose in pediatric patients with associated cardiac arrest.
+DRUG-DOSE	12	13	We report a 76-year-old man who developed an acute blistering eruption following high-dose penicillin treatment for pneumococcal septicaemia.
+DRUG-DOSE	2	5	INTERPRETATION: When high doses of fluticasone propionate are used, growth may be retarded and adrenal suppression may occur.
+DRUG-AE	3	0	Flecainide-associated pneumonitis with acute respiratory failure in a patient with the LEOPARD syndrome.
+DRUG-AE	15	14	However, as illustrated by these and other cases reported to date, the onset of troglitazone-induced liver injury is insidious and temporally variable.
+DRUG-DOSE	12	11	METHODS: Repeated blood samples were drawn in a patient with severe acyclovir overdose who developed coma and nonoliguric renal failure.
+DRUG-DOSE	5	1	The azathioprine dose was low (1 mg/kg) and pancytopenia occurred after 56 days therapy.
+DRUG-AE	19	19	The favourable outcome in these two patients contrasts with the fatal outcome of the two other reported cases of nitrofurantoin induced BOOP.
+DRUG-AE	27	26	This case report illustrates the use of continuous high-dose intracoronary nitroglycerin infusion through a 6 French coronary guiding catheter in the treatment of a patient with cocaine-induced refractory coronary vasospasm.
+DRUG-AE	8	8	The medical examiner's report indicated death caused by fluoxetine toxicity.
+DRUG-AE	0	4	Scleroderma-like reaction induced by uracil-tegafur (UFT), a second-generation anticancer agent.
+DRUG-DOSE	8	24	In case 1, a total daily dose of 25 mg sertraline, with nondetectable sertraline and desmethylsertraline blood levels, resulted in a doubling of the lamotrigine blood level with symptoms of toxicity.
+DRUG-DOSE	16	15	We report on three patients with acute schizophrenia, who developed severe akathisia during treatment with olanzapine (20-25 mg/d).
+DRUG-AE	10	0	Ibuprofen overdose is usually characterized by GI upset, dizziness, and mild sedation.
+DRUG-DOSE	22	7	The evidence of high plasmatic levels of CBZ and the absence of other aetiologic factors lead the authors to conclude that the overdose of CBZ could have represented the precipitating of the episode of acute pancreatitis.
+DRUG-DOSE	11	4	This case suggests that acyclovir when given intravenously in doses of 10 mg/kg may result in increased serum lithium concentrations.
+DRUG-AE	6	9	We report 2 patients who developed polyarteritis nodosa following vaccination against hepatitis B.
+DRUG-DOSE	18	20	We report one case of non-Hodgkin lymphoma in a patient, with a 30-year history of rheumatoid arthritis, taking low dose methotrexate weekly over a 10-month period.
+DRUG-AE	6	5	We present two cases of nitrofurantoin-induced pulmonary toxicity in which the initial HRCT showed a widespread reticular pattern and associated distortion of the lung parenchyma, thought to represent established fibrosis.
+DRUG-DOSE	1	4	A high dose of cotrimoxazole induced hyperkalaemia with the elevation of serum creatinine and blood urea, and increased urinary N-acetyl glucosaminase after several days of the drug administration in these patients; one patient became unconscious.
+DRUG-AE	22	27	We report the case of an adult patient with acute lymphoblastic leukemia who presented with repeated transient ischemic attacks followed by a seizure during consolidation treatment with L-asparaginase.
+DRUG-DOSE	27	18	This paper reports on a 6.9-year-old autistic male who developed repeated episodes of acute dystonic reactions associated with pimozide administration at the doses of 0.096 mg/kg/day and 0.032 mg/kg/day and 32 hours following pimozide withdrawal, as well as during subsequent thioridazine administration.
+DRUG-AE	6	0	Flecainide is a rare cause of hypersensitivity pneumonitis, and few cases have been reported.
+DRUG-AE	1	0	Troglitazone-induced fulminant hepatic failure.
+DRUG-DOSE	4	8	She received an accidental 450-mg bolus injection of morphine intrathecally and developed hypertension, status epilepticus, intracerebral hemorrhage, and respiratory failure.
+DRUG-AE	18	15	Other thiazolidinediones currently in clinical trials may be able to provide the therapeutic benefits of troglitazone without significant hepatotoxicity.
+DRUG-DOSE	14	1	Two heroin addicts, aged 34 and 19 years, developed ballistic movements after intravenous heroin overdose.
+DRUG-AE	11	18	We report the case of an 11-month-old female infant with a depressed level of consciousness after ingestion of ibuprofen whose mental status markedly improved with administration of naloxone.
+DRUG-DOSE	24	18	This paper reports on a 6.9-year-old autistic male who developed repeated episodes of acute dystonic reactions associated with pimozide administration at the doses of 0.096 mg/kg/day and 0.032 mg/kg/day and 32 hours following pimozide withdrawal, as well as during subsequent thioridazine administration.
+DRUG-AE	7	10	It remains to be seen whether the hepatotoxicity associated with troglitazone is a drug-class effect or specific to troglitazone.
+DRUG-DOSE	16	29	The pharmaceutical company producing Halfan has reported 8 cardiac arrests, leading to 6 deaths, when a higher dose than recommended was used, there was recent or concomitant treatment with mefloquine, there was pre-existing prolongation of the QT interval or the patient had a thiamine deficiency.
+DRUG-AE	0	6	Central nervous system manifestations of an ibuprofen overdose reversed by naloxone.
+DRUG-AE	15	6	The three reported cases demonstrate that troglitazone is an idiosyncratic hepatotoxin that can lead to irreversible liver injury.
+DRUG-AE	15	5	We present two cases of nitrofurantoin-induced pulmonary toxicity in which the initial HRCT showed a widespread reticular pattern and associated distortion of the lung parenchyma, thought to represent established fibrosis.
+DRUG-AE	6	0	Ibuprofen overdose is usually characterized by GI upset, dizziness, and mild sedation.
+DRUG-AE	7	17	We report on a young adolescent with benign intracranial hypertension which we attribute to the use of minocycline for acne.
+DRUG-DOSE	0	2	Overdose of magnesium sulfate in combination with renal insufficiency, hypocalcemia, or compromise of intestinal integrity may predispose horses to magnesium toxicosis.
+DRUG-DOSE	8	10	In case 1, a total daily dose of 25 mg sertraline, with nondetectable sertraline and desmethylsertraline blood levels, resulted in a doubling of the lamotrigine blood level with symptoms of toxicity.
+DRUG-AE	1	0	Flecainide-associated pneumonitis with acute respiratory failure in a patient with the LEOPARD syndrome.
+DRUG-DOSE	5	8	We thus concluded that an excessive dose of AZ had probably destroyed the gastric mucosal barrier or thrombocytopenia due to bone marrow disorder and thus eventually led to the development of hemorrhagic gastritis.
+DRUG-DOSE	10	8	OBJECTIVE: To report the first five cases of amphotericin B overdose with secondary cardiac complications in a pediatric population.
+DRUG-AE	10	19	The favourable outcome in these two patients contrasts with the fatal outcome of the two other reported cases of nitrofurantoin induced BOOP.
+DRUG-AE	24	16	In this case, it was suspected that a combination of cigarette smoking, pulmonary fibrosis, and low-dose methotrexate therapy might have promoted the development of lung cancer.
+DRUG-DOSE	4	5	Acute dystonic reaction with low-dose pimozide.
+DRUG-DOSE	14	11	We describe 2 patients with cutaneous lupus erythematosus who developed severe dapsone reaction after low dose therapy, with a fatal outcome in one.
+DRUG-DOSE	20	21	1. Changes in the plasma cortisol level were reported in a male patient with panic disorder during the period of low-dose alprazolam treatment (mean 0.62 +/- 0.15 mg/day) compared with during the period of high-dose period (mean 1.08 +/- 0.28 mg/day).
+DRUG-AE	1	0	Nitrofurantoin-induced lung disease: two cases demonstrating resolution of apparently irreversible CT abnormalities.
+DRUG-AE	1	0	Fluoxetine-related death in a child with cytochrome P-450 2D6 genetic deficiency.
+DRUG-DOSE	24	28	We have seen a case of terminal malignant melanoma in which clinical manifestations, indicative of anterior spinal artery syndrome, developed following the injection of 0.3 ml of 10% phenol-glycerine into the cervical subarachnoid space at the C4--C5 level for the control of severe right arm pain.
+DRUG-DOSE	10	13	On the next day, after a total dose of only 600 mg of danazol, gingival bleeding and purpura occurred.
+DRUG-DOSE	13	19	INTERVENTIONS AND RESULTS: Cardiac complications were observed in five pediatric patients who received between 4.6 and 40.8 mg/kg/d of amphotericin B.
+DRUG-AE	4	4	Presently, treatment of acute ibuprofen intoxication with complications requires supportive therapy until the symptoms resolve over 24 to 48 hours.
+DRUG-AE	5	11	Sagittal sinus thrombosis associated with transient free protein S deficiency after L-asparaginase treatment: case report and review of the literature.
+DRUG-DOSE	9	8	Ballistic movements due to ischemic infarcts after intravenous heroin overdose: report of two cases.
+DRUG-AE	20	5	We present two cases of nitrofurantoin-induced pulmonary toxicity in which the initial HRCT showed a widespread reticular pattern and associated distortion of the lung parenchyma, thought to represent established fibrosis.
+DRUG-DOSE	11	18	This case suggests that acyclovir when given intravenously in doses of 10 mg/kg may result in increased serum lithium concentrations.
+DRUG-DOSE	0	2	Overdose of magnesium sulfate in combination with renal insufficiency, hypocalcemia, or compromise of intestinal integrity may predispose horses to magnesium toxicosis.
+DRUG-AE	8	0	Ibuprofen overdose is usually characterized by GI upset, dizziness, and mild sedation.
+DRUG-AE	29	5	We present two cases of nitrofurantoin-induced pulmonary toxicity in which the initial HRCT showed a widespread reticular pattern and associated distortion of the lung parenchyma, thought to represent established fibrosis.
+DRUG-DOSE	0	1	High-dose phosphate treatment leads to hypokalemia in hypophosphatemic osteomalacia.
+DRUG-DOSE	19	18	We reported 3 patients who developed acute generalized dystonia and akinetic rigid syndrome following an initial therapy with d-penicillamine 125-500 mg daily.
+DRUG-DOSE	10	9	A 17-year-old female patient who had been taking oral minocycline (50 mg twice daily) for 3 weeks for acne developed an eruption that progressed to an exfoliative dermatitis.
+DRUG-DOSE	4	6	Severe abdominal pain in low dosage clofazimine.
+DRUG-DOSE	13	14	METHODS: Growth retardation was observed in six severely asthmatic children after introduction of high-dose fluticasone propionate treatment (dry powder).
+DRUG-AE	7	10	It remains to be seen whether the hepatotoxicity associated with troglitazone is a drug-class effect or specific to troglitazone.
+DRUG-AE	4	3	The spectrum of nitrofurantoin lung injury continues to widen.
+DRUG-AE	6	13	We report a case of a scleroderma-like reaction induced by long-term administration of UFT.
+DRUG-DOSE	15	13	A 65-year-old woman with angina pectoris presented with syncope after sublingual ingestion of isosorbide dinitrate (5 mg).
+DRUG-DOSE	19	18	Two case reports of bilateral granulomatous anterior uveitis are described in patients with open angle glaucoma treated with metripranolol 0.6% eye drops.

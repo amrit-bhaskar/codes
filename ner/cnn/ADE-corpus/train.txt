@@ -1,0 +1,460 @@
+DRUG-DOSE	15	14	We report a case of torsade de pointes following a single oral dose of amiodarone (1400 mg or 30 mg kg-1) administered after short intravenous loading for prevention of paroxysmal atrial flutter.
+DRUG-DOSE	26	7	In all cases, drugs in addition to quetiapine were detected, but in cases #1 and #2, the cause of death was considered to be a quetiapine overdose and the other drugs were not considered to be contributory.
+DRUG-DOSE	9	12	Three patients received respectively 190 mg, 175 mg, and 196 mg of methotrexate and developed bilateral pulmonary infiltrates without evidence of peripheral blood eosinophilia.
+DRUG-AE	5	1	Intravenous valproate associated with significant hypotension in the treatment of status epilepticus.
+DRUG-AE	2	10	Unaccountable severe hypercalcemia in a patient treated for hypoparathyroidism with dihydrotachysterol.
+DRUG-DOSE	5	4	An 83-year-old man receiving glipizide 10 mg bid developed symptomatic hypoglycemia within three days of adding trimethoprim/sulfamethoxazole (TMP/SMX) to his regimen.
+DRUG-AE	16	11	This case report describes a patient who was previously prescribed alendronate (Fosamax) and presented with postoperative hypophosphatemia and hypocalcemic tetany after bowel preparation with Fleet Phospho-Soda.
+DRUG-DOSE	22	25	We report the case of a patient with multiple myeloma who developed acute life-threatening water intoxication following treatment with oral indomethacin and low dose intravenous cyclophosphamide.
+DRUG-AE	0	5	Priapism as a complication of heparin therapy.
+DRUG-AE	8	24	We describe the clinical response, as determined by increases in total Hb and decreased transfusion needs, in five patients with thalassemia intermedia treated with HU alone or in combination with SPB.
+DRUG-DOSE	8	7	She was receiving phenytoin sodium 300 mg/day; carbamazepine 200 mg four times daily had been discontinued four days before admission because of leukopenia.
+DRUG-AE	0	9	Bronchiolitis obliterans organising pneumonia associated with the use of nitrofurantoin.
+DRUG-AE	1	0	Heparin-induced thrombocytopenia is a rare and serious complication of anticoagulation therapy.
+DRUG-AE	5	8	We report a case of glaucoma induced by doxetaxel therapy for metastatic breast cancer.
+DRUG-DOSE	4	3	Inadvertent and accidental epinephrine overdose might result in potentially lethal complications.
+DRUG-AE	22	12	A 36-y-o patient with schizophrenia, who had consumed gradually increasing quantities of oolong tea that eventually reached 15 L each day, became delirious and was admitted to a psychiatric hospital.
+DRUG-DOSE	12	15	Two cases of lepromatous leprosy with erythema nodosum leprosum who were on high doses of clofazimine, showed discoloration of nail plate, subungual hyperkeratosis and onycholysis.
+DRUG-DOSE	0	2	High-dose intravenous mannitol infusion in various clinical settings may result in acute renal failure (ARF).
+DRUG-AE	9	18	We believe that this is the first description of acute hepatitis caused by an idiosyncratic adverse reaction to gliclazide or to one of its metabolites.
+DRUG-DOSE	10	6	Common adverse events (frequency 10%) of lacosamide doses up to 600 mg/day include nonspecific central nervous system effects (e.g., dizziness, ataxia, diplopia, and somnolence).
+DRUG-AE	12	4	METHODS: The patient required insulin desensitization for severe urticaria, angioedema, and occasional wheezing resulting from her insulin dose.
+DRUG-DOSE	3	4	Myasthenia gravis during low-dose IFN-alpha therapy for chronic hepatitis C.
+DRUG-DOSE	12	11	Two patients treated for chronic myeloid leukemia with high doses of CCNU (1100 mg/m2 and 1240 mg/m2, respectively) developed a fatal pulmonary fibrosis.
+DRUG-AE	6	10	We report a case of severe hypotension associated with intravenous valproate used to treat status epilepticus in an 11-year-old girl.
+DRUG-DOSE	16	19	A 55-year-old woman presented an episode of acute urticaria and labial angioedema 60 minutes after ingesting 500 mg of cloxacillin for a skin abscess.
+DRUG-AE	8	8	Severe rhabdomyolysis following massive ingestion of oolong tea: caffeine intoxication with coexisting hyponatremia.
+DRUG-AE	3	1	Apparent cyclophosphamide (cytoxan) embryopathy: a distinct phenotype?
+DRUG-DOSE	26	19	A 56-year-old woman with scleroderma developed rapidly progressive glomerulonephritis with epithelial crescents associated with hemoptysis after 27 months of D-penicillamine therapy and a cumulative dose of 1,200 g.
+DRUG-AE	26	14	The purpose of this report is to document a new case of in utero CP exposure with multiple congenital anomalies and to establish an apparent CP embryopathy phenotype.
+DRUG-DOSE	7	12	METHODS: A 55-year-old woman became stuporous after overdose with lamotrigine (LTG) and valproic acid (VPA) tablets.
+DRUG-AE	20	3	We hypothesize that caffeine toxicity injured the muscle cells, which were fragile due to the potassium depletion induced by the coexisting hyponatremia, to result in unusually severe rhabdomyolysis.
+DRUG-AE	11	21	We report 3 cases of HIV-1 infected patients who experienced symptomatic angiolipomas shortly after starting antiretroviral therapy including the protease inhibitor indinavir.
+DRUG-AE	6	3	After abstinence from oolong tea his delirium resolved.
+DRUG-DOSE	10	6	We report five cases of carboplatin (CBDCA) hypersensitivity after weekly low-dose paclitaxel (60 mg/m2)/CBDCA (area under the concentration curve = 2) therapy in patients with recurrent ovarian cancer receiving multiple platinum-based chemotherapy.
+DRUG-AE	21	8	Prolonged responses were achieved with low doses of HU (3-10 mg/kg/day) and higher doses were associated with mild reversible hematologic or hepatic toxicity and no further increases in Hb.
+DRUG-DOSE	17	5	Mean time between initiation of gemcitabine therapy and onset of HUS was 7.4 +/- 3.5 months, or 21.9 +/- 10.9 doses of gemcitabine.
+DRUG-DOSE	8	5	A small initial dose of prazosin ranging from 0.5 to 1 mg has been recommended to avoid the first-dose phenomenon characterized by a sudden and severe drop in blood pressure after the administration of the first dose of prazosin.
+DRUG-AE	8	15	It carries a well-known risk of neutropenia and agranulocytosis, which necessitates the immediate discontinuation of clozapine.
+DRUG-DOSE	29	18	CONCLUSIONS: Clinicians should be aware of a risk of serotonin syndrome with serious extrapyramidal reactions in patients receiving sertraline or venlafaxine when metoclopramide is coadministered even in a single, conventional dose.
+DRUG-DOSE	12	11	On the fifth day after administration of a high dose of ARA-C (2 g/m2 intravenously every 12 hours), she developed bullous lesions on the hands and soles that disseminated, evolving to necrosis, sepsis, and death on the 22nd day.
+DRUG-AE	0	5	Methemoglobinemia after axillary block with bupivacaine and additional injection of lidocaine in the operative field.
+DRUG-AE	9	9	We conclude that MB is an effective treatment for ifosfamide-induced encephalopathy.
+DRUG-DOSE	12	13	The authors describe pericardial hemorrhage, which is related to the use of low-dose acetylsalicylic acid in a patient with essential thrombocythemia.
+DRUG-DOSE	10	5	We report five cases of carboplatin (CBDCA) hypersensitivity after weekly low-dose paclitaxel (60 mg/m2)/CBDCA (area under the concentration curve = 2) therapy in patients with recurrent ovarian cancer receiving multiple platinum-based chemotherapy.
+DRUG-AE	1	12	Apparent central nervous system depression in infants after the use of topical brimonidine.
+DRUG-DOSE	20	5	The pharmacology and toxicology of chloral hydrate are discussed with particular reference to the cardiac arrhythmias that are seen with overdosage.
+DRUG-DOSE	31	30	We describe a case of advanced ovarian carcinoma who developed difficulty walking because of marked pain in the lower extremities and loss of proprioception 25 days after treatment with weekly taxol (80 mg/m(2)x3).
+DRUG-AE	12	8	PURPOSE: To report two cases in which topical brimonidine resulted in apparent central nervous system depression and unresponsiveness in an infant.
+DRUG-DOSE	2	3	Hyponatraemia during low-dose carbamazepine therapy.
+DRUG-DOSE	5	17	An 83-year-old man receiving glipizide 10 mg bid developed symptomatic hypoglycemia within three days of adding trimethoprim/sulfamethoxazole (TMP/SMX) to his regimen.
+DRUG-DOSE	0	1	High-dose methotrexate-associated acute renal failure may be an avoidable complication.
+DRUG-DOSE	3	5	Lethal anuria complicating high dose ifosfamide chemotherapy in a breast cancer patient with an impaired renal function.
+DRUG-AE	17	5	The clinical course suggests that caffeine, which is present in oolong tea, was mainly responsible for the rhabdomyolysis as well as the delirium, although severe hyponatremia has been reported to cause rhabdomyolysis on rare occasions.
+DRUG-DOSE	2	3	Hepatotoxicity after high-dose methylprednisolone for demyelinating disease.
+DRUG-AE	12	4	We conclude that low-dose HU therapy in patients with thalassemia intermedia may increase total Hb levels sufficiently to eliminate the need for transfusions.
+DRUG-AE	6	15	We report a case of acute hyperphosphatemia secondary to rectal administration of sodium phosphate and sodium biphosphate (Fleet enema).
+DRUG-DOSE	8	4	After the dose of methylprednisolone was reduced from 40 mg to 20 mg i.v. q6h and shifted to other anti-asthma treatment by procaterol metered dose inhaler via spacer, the psychotic reaction disappeared a few hours later.
+DRUG-DOSE	3	4	Four patients receiving high-dose tamoxifen for greater than 1 year have demonstrated similar retinal changes.
+DRUG-AE	6	11	The clinical course suggests that the interstitial pneumonitis was induced by hydroxyurea.
+DRUG-AE	1	0	Gliclazide-induced acute hepatitis.
+DRUG-DOSE	14	13	Gynecomastia developed in two epileptic patients some months after the addition of oral fluoresone 750 mg daily to the phenobarbital and phenytoin already being administered.
+DRUG-AE	10	16	We now report the first known cancer patient who developed life-threatening complications after treatment with topical 5-FU and was shown subsequently to have profound DPD deficiency.
+DRUG-AE	13	6	This case suggests that sarcoidosis and pravastatin, two entities not frequently associated with myotonia, may interact in a synergistic manner to produce severe clinical myotonia in humans.
+DRUG-AE	4	13	An episode of subacute encephalopathy after the infusion of a moderate dose of methotrexate (1500 mg/m2) (MTX) is reported in a young adult with metastastic gastric cancer.
+DRUG-DOSE	34	36	A 64 year old man with recurrent metastatic squamous cell carcinoma of the head and neck developed severe skin rash and bone marrow aplasia 4 and 7 days, respectively, following a single dose of 40 mg/m2 methotrexate (MTX).
+DRUG-AE	14	2	Cessation of D-Pen and the start of corticosteroid therapy were followed by recovery from bicytopenia.
+DRUG-AE	10	13	A 66-year-old Japanese woman with severe scleroderma developed anemia and thrombocytopenia due to D-penicillamine (D-Pen) treatment, although the leukopenia was not markedly severe.
+DRUG-AE	13	10	CASE SUMMARY: A 39-year-old white Jewish schizophrenic man treated with olanzapine developed an elevated serum CK concentration with a peak concentration of 4000 IU/L (normal < 230).
+DRUG-DOSE	4	7	Pulmonary fibrosis subsequent to high doses of CCNU for chronic myeloid leukemia.
+DRUG-AE	10	17	This patient, who had a history of osteoarthritis, had severe hepatitis 5 weeks after being started on diclofenac for increasing pain in the joints.
+DRUG-AE	3	2	Prolonged severe 5-fluorouracil-associated neurotoxicity in a patient with dihydropyrimidine dehydrogenase deficiency.
+DRUG-AE	6	3	The relationship between infliximab treatment and lymphoma in Crohn's disease.
+DRUG-DOSE	22	20	We report the case of a patient with multiple myeloma who developed acute life-threatening water intoxication following treatment with oral indomethacin and low dose intravenous cyclophosphamide.
+DRUG-DOSE	22	25	A sixty-year-old woman with advanced breast cancer, previously treated with cisplatin, developed an irreversible lethal renal failure with anuria, the day after 5 g/m2 bolus ifosfamide.
+DRUG-DOSE	9	10	Hemorrhage from a falx meningioma after internal use of low-dose aspirin.
+DRUG-AE	11	10	We believe that this represents an unusual case of moderate-dose MTX-induced neurotoxicity in a patient with gastric cancer, which has not previously been reported.
+DRUG-DOSE	6	5	Managing cardiovascular collapse in severe flecainide overdose without recourse to extracorporeal therapy.
+DRUG-AE	6	10	Reported are three children who developed progressive paraparesis after intrathecal methotrexate administration followed by complete or partial recovery.
+DRUG-AE	7	4	METHODS: The patient required insulin desensitization for severe urticaria, angioedema, and occasional wheezing resulting from her insulin dose.
+DRUG-AE	21	0	Sodium phenylbutyrate was added to treatment with HU in two patients, but failed to produce an increase in total Hb despite increasing Hb F levels.
+DRUG-AE	12	17	We report the case of a female acromegalic patient in whom multiple hepatic adenomas appeared soon after danazol treatment for uterine fibromatosis.
+DRUG-AE	6	25	We report a case of reversible encephalopathy syndrome in a 16-year-old girl with acute myelogenous leukemia (AML), who is undergoing during consolidation chemotherapy composed of BH-AC (N4-behenoyl-1-beta-D-arabinofuranosyl cytosine) and idarubicin.
+DRUG-AE	0	4	Hair loss associated with paroxetine treatment: a case report.
+DRUG-AE	6	22	A 22-year-old black man developed fever, chills, fatigue, night sweats, tender lymphadenopathy, and a generalized, pruritic, macular eruption 3 weeks after starting minocycline therapy for acne.
+DRUG-AE	0	5	Acute neutrophilic dermatosis induced by all-trans-retinoic acid treatment for acute promyelocytic leukemia.
+DRUG-AE	10	13	We report the cases of two patients who developed acute hepatitis after taking riluzole at the recommended dose (100 mg daily) for 7 and 4 weeks, respectively.
+DRUG-AE	18	11	This case report describes a patient who was previously prescribed alendronate (Fosamax) and presented with postoperative hypophosphatemia and hypocalcemic tetany after bowel preparation with Fleet Phospho-Soda.
+DRUG-AE	6	9	OBJECTIVE: To report a case of angioedema associated with losartan administration.
+DRUG-AE	7	27	The patient had recurrence of urticaria and angioedema a year and a half later, at which point the NPH was stopped and she was desensitized to regular insulin.
+DRUG-AE	10	3	Hydroxyurea (HU) and sodium phenylbutyrate (SPB) have been shown to increase fetal hemoglobin (Hb F) levels in patients with thalassemia intermedia.
+DRUG-AE	18	8	The reported cases of in utero exposure to cyclosposphamide shared the following manifestations with our patient: growth deficiency, developmental delay, craniosynostosis, blepharophimosis, flat nasal bridge, abnormal ears, and distal limb defects including hypoplastic thumbs and oligodactyly.
+DRUG-AE	16	26	The first patient was a 61-year-old man with a 30-year history of fistulizing CD in whom B-cell non-Hodgkin's lymphoma was diagnosed 9 months after treatment with infliximab.
+DRUG-DOSE	12	15	We present the case of a 58-year-old woman who ingested more than 35 g of caffeine in a suicide attempt.
+DRUG-DOSE	14	21	Gynecomastia developed in two epileptic patients some months after the addition of oral fluoresone 750 mg daily to the phenobarbital and phenytoin already being administered.
+DRUG-DOSE	26	29	We report a 31-year-old women with recurrent Hodgkin's lymphoma and unrecognized HMSN-1 who developed severe motor neuropathy 3 weeks after the first cycle of treatment including 2 mg of vincristine.
+DRUG-AE	10	20	A 60-year-old woman with diabetes mellitus (type 2) developed an acute icteric hepatitis-like illness 6 weeks after the initiation of gliclazide therapy.
+DRUG-DOSE	9	8	A 33-year-old man with a history of recreational benztropine abuse presented to the emergency department with confusion, abdominal pain, and distention.
+DRUG-AE	2	0	2-CdA induces lymphocytopenia, which may explain the improvement in this patient's psoriasis.
+DRUG-AE	2	7	Fixed drug eruption in hands caused by omeprazole.
+DRUG-DOSE	10	12	We describe a patient who presented with bloody diarrhoea after 15 mg meloxicam daily for 10 days for osteoarthritis.
+DRUG-AE	1	9	An acute ischaemic event associated with the use of venlafaxine: a case report and proposed pathophysiological mechanisms.
+DRUG-DOSE	11	14	In four patients, spasm occurred spontaneous and in one patient after 0.05 mg of ergonovine.
+DRUG-AE	3	6	The incidence of angioedema secondary to losartan, an angiotensin II receptor antagonist, is unknown.
+DRUG-AE	18	10	This case report describes a patient who was previously prescribed alendronate (Fosamax) and presented with postoperative hypophosphatemia and hypocalcemic tetany after bowel preparation with Fleet Phospho-Soda.
+DRUG-AE	0	4	Lupus-like syndrome caused by 5-aminosalicylic acid in patients with inflammatory bowel disease.
+DRUG-AE	19	18	There remains a paucity of information pertaining to alternative anticoagulation strategies for use during cardiopulmonary bypass concomitant with heparin-induced thrombocytopenia, especially in children.
+DRUG-DOSE	3	4	Successful desensitization to high-dose methotrexate after systemic anaphylaxis.
+DRUG-DOSE	22	23	We describe a patient with acute leukemia who developed Horner's syndrome and a severe demyelinating peripheral neuropathy leading to death after receiving high-dose cytosine arabinoside.
+DRUG-AE	20	9	OBJECTIVE: We report a patient who developed neutropenia on clozapine, but behind the cell count decrease showed to be a diurnal variation of the white blood cells (WBC).
+DRUG-AE	6	3	The association of venlafaxine treatment with ischaemic events could be explained by its unique pharmacological and haemodynamic properties.
+DRUG-AE	3	17	CONCLUSION: Fixed drug eruption is associated with many drugs but this is the first such report with omeprazole.
+DRUG-DOSE	1	0	Ibuprofen overdose is usually characterized by GI upset, dizziness, and mild sedation.
+DRUG-AE	28	35	The present observation suggests, that a batch of different testing doses, including lower testing doses may help to differentiate between an allergic type of contact dermatitis and an irritant type of reaction after treatment with calcipotriol.
+DRUG-DOSE	12	11	Reversible leukopenia was documented in an 81-year-old woman treated with adjunctive ibopamine 100 mg t.i.d. for chronic congestive heart failure.
+DRUG-AE	4	19	The possibility of severe rhabdomyolysis should be considered in a patient with water intoxication due to massive ingestion of caffeine-containing beverages.
+DRUG-AE	10	13	We report on a 37-year-old female who complained of moderate hair loss during paroxetine treatment.
+DRUG-DOSE	4	0	Carboplatin hypersensitivity induced by low-dose paclitaxel/carboplatin in multiple platinum-treated patients with recurrent ovarian cancer.
+DRUG-AE	14	18	With the negative viral serologies, the clinical picture was most consistent with an infectious mononucleosis-like syndrome produced by the minocycline ingestion.
+DRUG-DOSE	12	6	We report five cases of carboplatin (CBDCA) hypersensitivity after weekly low-dose paclitaxel (60 mg/m2)/CBDCA (area under the concentration curve = 2) therapy in patients with recurrent ovarian cancer receiving multiple platinum-based chemotherapy.
+DRUG-DOSE	16	19	A 60 year-old woman with chronic renal failure developed acute proximal muscle weakness after receiving a regular dosage of colchicine.
+DRUG-DOSE	10	9	A 9-year-old boy developed acute renal failure following intravenous acyclovir (30 mg/kg per day) administered for 6 days to treat herpetic encephalitis.
+DRUG-AE	21	7	Sodium phenylbutyrate was added to treatment with HU in two patients, but failed to produce an increase in total Hb despite increasing Hb F levels.
+DRUG-AE	25	5	RESULTS: A 44-year-old man taking naproxen for chronic low back pain and a 20-year-old woman on oxaprozin for rheumatoid arthritis presented with tense bullae and cutaneous fragility on the face and the back of the hands.
+DRUG-DOSE	26	14	Pheripheral edema was observed in five female patients after taking proton pump inhibitors omeprazole, lansoprazole, or pantoprazole for 7-15 days for peptic acid diseases in recommended standard doses.
+DRUG-AE	1	8	Severe rhabdomyolysis following massive ingestion of oolong tea: caffeine intoxication with coexisting hyponatremia.
+DRUG-DOSE	14	13	We report a case of a patient with rheumatoid arthritis treated with low-dose methotrexate (15 mg/week) who developed infection with both M. tuberculosis and M. chelonae after the revision of a prosthetic hip.
+DRUG-AE	10	9	Detection of activated eosinophils in nasal polyps of an aspirin-induced asthma patient.
+DRUG-AE	8	13	A 66-year-old Japanese woman with severe scleroderma developed anemia and thrombocytopenia due to D-penicillamine (D-Pen) treatment, although the leukopenia was not markedly severe.
+DRUG-DOSE	11	12	Our findings suggest that hyperkalemia can develop with the use of low-dose heparin, within seven days of initiating heparin therapy, and that patients with diabetes mellitus or chronic renal insufficiency are especially predisposed to this complication.
+DRUG-AE	9	1	DISCUSSION: Olanzapine, like other atypical antipsychotic drugs, may cause muscle injury with concomitant elevations of serum CK of muscle origin.
+DRUG-DOSE	20	19	CONCLUSIONS: We present a case of a patient with CML who developed KS 12 months after starting treatment with imatinib 400 mg/d.
+DRUG-DOSE	42	4	Our report suggested that CBDCA hypersensitivity was correlated with the total dose of previously administered platinum agents and that CBDCA should be excluded in patients who have received multiple platinum-based chemotherapy, even in platinum-sensitive cases, because CBDCA hypersensitivity can occur even with low-dose CBDCA administration.
+DRUG-AE	13	20	We report on a 14-year-old boy with severe haemophilia A who developed a portal vein thrombosis during continuous infusion of F VIII.
+DRUG-AE	19	0	Naproxen, the most common offender, has been associated with a dimorphic clinical pattern: a PCT-like presentation and one simulating erythropoietic protoporphyria in the pediatric population.
+DRUG-DOSE	19	24	In eight patients, a mean decrease in serum Na+ of 8.25 +/- 3.2 mEq/L was observed after a single 200 mg intravenous dose of lorcainide.
+DRUG-DOSE	7	10	METHODS: A 55-year-old woman became stuporous after overdose with lamotrigine (LTG) and valproic acid (VPA) tablets.
+DRUG-AE	10	7	In conclusion, this case strongly suggests that gliclazide can induce acute icteric liver necro-inflammation which may be misdiagnosed clinically as acute viral hepatitis.
+DRUG-AE	27	41	A 26-year-old Japanese man, who had been receiving medical attention for ulcerative colitis for one year, presented with diffuse erythema and pustules on his face and trunk, malaise, and fever up to 39 degrees C one day after the administration of salazosulfapyridine.
+DRUG-DOSE	6	5	A 74-year-old hypercholestrerolaemic woman taking cerivastatin (0.15 mg/day) for 22 days complained of general muscle weakness and muscle pain.
+DRUG-AE	27	3	We hypothesize that caffeine toxicity injured the muscle cells, which were fragile due to the potassium depletion induced by the coexisting hyponatremia, to result in unusually severe rhabdomyolysis.
+DRUG-AE	2	1	Pediatric heparin-induced thrombocytopenia: management with Danaparoid (orgaran).
+DRUG-DOSE	5	8	The intramuscular challenge test with 25 UI of Miacalcic was positive with an immediate anaphylactic reaction.
+DRUG-AE	14	6	We describe the side effects of 5-FU in a colon cancer patient who suffered severe mucositis, desquamating dermatitis, prolonged myelosuppression, and neurologic toxicity that required admission to the intensive care unit.
+DRUG-AE	6	9	METHODS: We report two cases of pseudoporphyria caused by naproxen and oxaprozin.
+DRUG-AE	11	9	We describe a life threatening side effect of acute epoprostenol infusion (pulmonary edema) in a patient with pulmonary hypertension associated with limited scleroderma and discuss its management and potential etiology.
+DRUG-DOSE	36	38	A 10-year-old boy with osteosarcoma and normal renal function manifested laboratory evidence of impending renal toxicity and extreme elevation of aspartate aminotrasferase and alanine aminotransferase within 2 hours after the completion of a 4-hour infusion of high-dose methotrexate (MTX) (12 g/m2), and went on to develop acute renal failure with life-threatening hyperkalemia 29 hours later.
+DRUG-AE	10	7	Of the four patients who responded to HU with an increase in total Hb, all reported symptomatic improvement and three have not required further transfusions.
+DRUG-AE	7	22	A 22-year-old black man developed fever, chills, fatigue, night sweats, tender lymphadenopathy, and a generalized, pruritic, macular eruption 3 weeks after starting minocycline therapy for acne.
+DRUG-AE	22	8	The reported cases of in utero exposure to cyclosposphamide shared the following manifestations with our patient: growth deficiency, developmental delay, craniosynostosis, blepharophimosis, flat nasal bridge, abnormal ears, and distal limb defects including hypoplastic thumbs and oligodactyly.
+DRUG-AE	19	12	Immobilization, while Paget's bone disease was present, and perhaps enhanced activation of dihydrotachysterol by rifampicin, could have led to increased calcium-release into the circulation.
+DRUG-AE	10	3	In two patients clozapine was reinstated after risperidone was discontinued; serum triglyceride levels increased.
+DRUG-AE	14	22	A 22-year-old black man developed fever, chills, fatigue, night sweats, tender lymphadenopathy, and a generalized, pruritic, macular eruption 3 weeks after starting minocycline therapy for acne.
+DRUG-AE	1	0	Hydroxyurea-induced acute interstitial pneumonitis in a patient with essential thrombocythemia.
+DRUG-DOSE	16	33	We consider asterixis to be an easily overlooked sign of neurotoxicity, which may occur even at low or moderate dosage levels, if certain drugs as lithium or clozapine are used in combination with CBZ.
+DRUG-AE	25	5	The clinical course suggests that caffeine, which is present in oolong tea, was mainly responsible for the rhabdomyolysis as well as the delirium, although severe hyponatremia has been reported to cause rhabdomyolysis on rare occasions.
+DRUG-AE	2	15	Both had impaired lung function and abnormal computed tomographic scans, and their condition improved when nitrofurantoin was withdrawn and corticosteroid treatment commenced.
+DRUG-AE	16	22	We report a patient with chronic renal failure and ischemic heart disease who developed clinically significant methemoglobinemia after an axillary block with bupivacaine and additional injection of lidocaine in the operative field.
+DRUG-DOSE	20	23	In three of these patients the infection was clinically unsuspected; in the fourth, cutaneous herpes zoster developed after administration of 300 mg of cytarabine daily for the preceding five days.
+DRUG-DOSE	20	5	Neurologic symptoms resolved after stopping CAP for 4 weeks in Patient A, with no recurrence after reinitiating CAP alone at 2000 mg/m2.
+DRUG-AE	7	2	CONCLUSIONS: Topical brimonidine may be associated with central nervous system depression in infants.
+DRUG-DOSE	5	16	An 83-year-old man receiving glipizide 10 mg bid developed symptomatic hypoglycemia within three days of adding trimethoprim/sulfamethoxazole (TMP/SMX) to his regimen.
+DRUG-DOSE	34	37	A 64 year old man with recurrent metastatic squamous cell carcinoma of the head and neck developed severe skin rash and bone marrow aplasia 4 and 7 days, respectively, following a single dose of 40 mg/m2 methotrexate (MTX).
+DRUG-AE	18	3	This increase when clozapine was switched to risperidone and vice versa is consistent with our previous report of elevated serum triglyceride levels in clozapine-treated patients.
+DRUG-AE	22	5	RESULTS: A 44-year-old man taking naproxen for chronic low back pain and a 20-year-old woman on oxaprozin for rheumatoid arthritis presented with tense bullae and cutaneous fragility on the face and the back of the hands.
+DRUG-AE	6	4	After the addition of citalopram, a desmethylclomipramine plasma level increase and an 8-hydroacy-desmethylclomipramine plasma level decrease were observed.
+DRUG-AE	0	9	Thrombotic microangiopathy with renal failure in two patients undergoing gemcitabine chemotherapy.
+DRUG-DOSE	26	32	A 53 year old Greenlandic male was admitted twice over a period of 4 years with a new complete right bundle branch block after ingestion of 10 g and 4 g of carbamazepine respectively.
+DRUG-AE	4	0	Pravastatin is associated with myotonia in animals.
+DRUG-AE	1	3	Paradoxical seizures in phenytoin toxicity.
+DRUG-DOSE	15	13	Patient B developed perioral and upper extremity paresthesias during the fourth cycle of CAP alone (2500 mg/m2).
+DRUG-DOSE	19	22	The patient was found to have no motile sperm with a normal sperm count, while taking a dose of 400 mg/day of carbamazepine.
+DRUG-AE	25	19	Ceftriaxone was approved in 1997 for the treatment of otitis media despite previous studies that documented an association of ceftriaxone with elevated hepato-biliary enzymes and transient biliary stasis.
+DRUG-DOSE	6	8	The presented patient was treated with 200 mg TCA and developed Cushing's syndrome 6 weeks later (cortisol and ACTH concentrations were below limits of detection, TCA concentrations were > 3 micrograms/l).
+DRUG-AE	15	2	Patients receiving neutral protamine Hagedorn (NPH) insulin are at increased risk for the development of protamine hypersensitivity.
+DRUG-DOSE	14	10	We describe a patient who developed HUS after treatment with mitomycin C (total dose 144 mg/m2) due to a carcinoma of the ascending colon.
+DRUG-DOSE	41	43	The main clinical features of this 58-year-old female patient were laboratory evidence of leucopenia and cholestasis, and biopsy features of fatty liver parenchyma degeneration with granulocytic portal infiltration and bile stasis, demonstrated 20 days after the initiation of antithyroid therapy with 20 mg methimazole daily.
+DRUG-AE	10	6	We report the successful treatment of heparin-induced thrombocytopenia and subsequent hemorrhagic complications postoperatively in a 2-year-old child with Danaparoid (orgaran).
+DRUG-DOSE	20	19	CASE SUMMARY: An 80-year-old white female, followed up at the Memory Clinic for mild cognitive impairment, had been taking propafenone 900 mg/d for >10 years for paroxysmal atrial fibrillation without adverse effects.
+DRUG-AE	5	9	We describe the case of acute hepatitis induced by gliclazide, a second generation sulfonylurea.
+DRUG-DOSE	10	13	A 5-month-old infant became lethargic and poorly responsive after receiving 1 drop of brimonidine in each eye.
+DRUG-DOSE	10	13	Bone marrow aplasia and severe skin rash after a single low dose of methotrexate.
+DRUG-AE	6	15	Both had impaired lung function and abnormal computed tomographic scans, and their condition improved when nitrofurantoin was withdrawn and corticosteroid treatment commenced.
+DRUG-AE	2	1	Intravenous azithromycin-induced ototoxicity.
+DRUG-AE	0	5	Anterior lumbosacral radiculopathy after intrathecal methotrexate treatment.
+DRUG-AE	5	5	We report a case of codeine intoxication in the neonate, in which the drug was prescribed for cough control during an emergency department visit.
+DRUG-AE	17	4	This case suggests that BH-AC, a derivative of cytosine arabinoside (1-beta-D-arabinofuranosylcytosine) could be a cause of reversible encephalopathy syndrome.
+DRUG-DOSE	4	5	Acute myocardial infarction during high-dose methylprednisolone therapy for Graves' ophthalmopathy.
+DRUG-DOSE	10	12	However here we reported two patients, presenting with PD during high dose colchicine treatment for familiar mediterranean fever (FMF).
+DRUG-DOSE	4	3	The association of phenothiazine overdose and respiratory distress syndrome merits consideration.
+DRUG-AE	5	12	We report a case of acute generalized exanthematous pustulosis (AGEP) induced by salazosulfapyridine in a patient with ulcerative colitis.
+DRUG-DOSE	13	12	We report on three cases wherein treatment of dexmedetomidine-induced bradycardia with i.v. glycopyrrolate (5.0 microg/kg) not only resulting in resolution of bradycardia but also resulting in an exaggerated increase of arterial blood pressure.
+DRUG-DOSE	1	0	Flecainide overdose can rapidly result in profound cardiovascular collapse, and is associated with a relatively high mortality.
+DRUG-DOSE	16	15	We present a neonate with a seizure disorder who acutely developed pupillary mydriasis secondary to lidocaine overdose.
+DRUG-AE	21	41	A 26-year-old Japanese man, who had been receiving medical attention for ulcerative colitis for one year, presented with diffuse erythema and pustules on his face and trunk, malaise, and fever up to 39 degrees C one day after the administration of salazosulfapyridine.
+DRUG-DOSE	5	3	She was receiving phenytoin sodium 300 mg/day; carbamazepine 200 mg four times daily had been discontinued four days before admission because of leukopenia.
+DRUG-AE	18	24	This case report describes a patient who was previously prescribed alendronate (Fosamax) and presented with postoperative hypophosphatemia and hypocalcemic tetany after bowel preparation with Fleet Phospho-Soda.
+DRUG-AE	25	5	During the first days of arsenic trioxide treatment a rapid decrease in the D-dimers was seen (normal values reached until day 7), together with a slight decrease in peripheral blood leukocytes.
+DRUG-DOSE	5	4	He was started on digoxin, 0.25 mg daily, because of echocardiographically demonstrated left ventricular dilatation and functional impairment; he died of ventricular fibrillation 15 days later.
+DRUG-AE	3	6	One case of priapism occurred during heparin therapy for a previous surgical operation to the knee is reported.
+DRUG-DOSE	8	9	We observed 2 cases of hepatotoxicity after a high-dose methylprednisolone treatment of a demyelinating disease and evaluated the potential relationship in the light of available evidence.
+DRUG-AE	3	3	We hypothesize that caffeine toxicity injured the muscle cells, which were fragile due to the potassium depletion induced by the coexisting hyponatremia, to result in unusually severe rhabdomyolysis.
+DRUG-DOSE	20	21	We report a case in which hemorrhage occurred in an asymptomatic falx meningioma known beforehand, after the internal use of low-dose aspirin for 16 months.
+DRUG-DOSE	14	19	Gynecomastia developed in two epileptic patients some months after the addition of oral fluoresone 750 mg daily to the phenobarbital and phenytoin already being administered.
+DRUG-DOSE	4	5	Myocardial ischemia associated with high-dose carmustine infusion.
+DRUG-DOSE	5	6	After a six-week course of low-dose cyclosporine A, she developed a severe but reversible loss of glomerular filtration rate and effective renal plasma flow despite of low cyclosporine A plasma levels.
+DRUG-AE	1	5	Postoperative hypocalcemic tetany caused by fleet phospho-soda preparation in a patient taking alendronate sodium: report of a case.
+DRUG-DOSE	4	5	Fatal radiation myelopathy after high-dose busulfan and melphalan chemotherapy and radiotherapy for Ewing's sarcoma: a review of the literature and implications for practice.
+DRUG-DOSE	11	12	Our findings suggest that hyperkalemia can develop with the use of low-dose heparin, within seven days of initiating heparin therapy, and that patients with diabetes mellitus or chronic renal insufficiency are especially predisposed to this complication.
+DRUG-AE	6	29	We report a case of reversible encephalopathy syndrome in a 16-year-old girl with acute myelogenous leukemia (AML), who is undergoing during consolidation chemotherapy composed of BH-AC (N4-behenoyl-1-beta-D-arabinofuranosyl cytosine) and idarubicin.
+DRUG-AE	8	22	A 22-year-old black man developed fever, chills, fatigue, night sweats, tender lymphadenopathy, and a generalized, pruritic, macular eruption 3 weeks after starting minocycline therapy for acne.
+DRUG-DOSE	42	4	Our report suggested that CBDCA hypersensitivity was correlated with the total dose of previously administered platinum agents and that CBDCA should be excluded in patients who have received multiple platinum-based chemotherapy, even in platinum-sensitive cases, because CBDCA hypersensitivity can occur even with low-dose CBDCA administration.
+DRUG-DOSE	4	5	Carboplatin hypersensitivity induced by low-dose paclitaxel/carboplatin in multiple platinum-treated patients with recurrent ovarian cancer.
+DRUG-AE	22	12	OBJECTIVE: The purpose of this study was to determine whether desensitization to NPH insulin, as well as standard insulin desensitization, could control allergic symptoms in a patient allergic to both NPH and regular insulin.
+DRUG-DOSE	4	6	Fatal interstitial pneumonitis following high-dose intermittent chlorambucil therapy for chronic lymphocyte leukemia.
+DRUG-DOSE	8	9	Horner's syndrome and demyelinating peripheral neuropathy caused by high-dose cytosine arabinoside.
+DRUG-AE	12	19	The possibility of severe rhabdomyolysis should be considered in a patient with water intoxication due to massive ingestion of caffeine-containing beverages.
+DRUG-DOSE	13	8	We report on three cases wherein treatment of dexmedetomidine-induced bradycardia with i.v. glycopyrrolate (5.0 microg/kg) not only resulting in resolution of bradycardia but also resulting in an exaggerated increase of arterial blood pressure.
+DRUG-DOSE	9	8	In this paper we report a case of nimodipine overdosage resulting in prolonged hypotension and hypoxemia, which was successfully treated with calcium gluconate.
+DRUG-AE	4	4	A diagnosis of masked theophylline poisoning should be considered in similar situations involving a rapid decrease of insulin requirements.
+DRUG-DOSE	10	11	Concurrent acute megaloblastic anaemia and pneumonitis: a severe side-effect of low-dose methotrexate therapy during rheumatoid arthritis.
+DRUG-AE	9	2	Hypersensitivity to aspirin can be manifested as acute asthma, urticaria and/or angioedema, or a systemic anaphylactoid reaction.
+DRUG-AE	0	0	Theophylline intoxication mimicking diabetic ketoacidosis in a child.
+DRUG-AE	1	8	Marked elevation of serum creatine kinase associated with olanzapine therapy.
+DRUG-DOSE	16	27	We consider asterixis to be an easily overlooked sign of neurotoxicity, which may occur even at low or moderate dosage levels, if certain drugs as lithium or clozapine are used in combination with CBZ.
+DRUG-DOSE	4	5	Carboplatin hypersensitivity induced by low-dose paclitaxel/carboplatin in multiple platinum-treated patients with recurrent ovarian cancer.
+DRUG-AE	5	3	The association between heparin and priapism is often recognized; abnormal platelet aggregation could play a role in the pathogenesis of this side effect.
+DRUG-DOSE	5	4	She had been on Copaxone 20 mg/day treatment for 2 years when she first exhibited gastrointestinal symptoms.
+DRUG-AE	7	6	This is the first case of hydroxyurea-induced acute interstitial pneumonitis reported in the literature.
+DRUG-DOSE	10	13	We present a case of a 20-year-old woman who ingested 900 mg of glyburide causing refractory hypoglycemia resistant to treatment with intravenous dextrose, glucagon, and diazoxide.
+DRUG-DOSE	42	4	Our report suggested that CBDCA hypersensitivity was correlated with the total dose of previously administered platinum agents and that CBDCA should be excluded in patients who have received multiple platinum-based chemotherapy, even in platinum-sensitive cases, because CBDCA hypersensitivity can occur even with low-dose CBDCA administration.
+DRUG-AE	16	27	We report a patient with chronic renal failure and ischemic heart disease who developed clinically significant methemoglobinemia after an axillary block with bupivacaine and additional injection of lidocaine in the operative field.
+DRUG-AE	0	0	Codeine intoxication in the neonate.
+DRUG-AE	7	22	Described here are 2 patients who developed thrombotic microangiopathy of the kidneys after receiving high cumulative doses of the new anticancer drug gemcitabine.
+DRUG-AE	4	12	An 11-day-old infant became lethargic and apneic after a single drop of brimonidine.
+DRUG-DOSE	19	21	Alternating sinus rhythm and intermittent sinoatrial (S-A) block was observed in a 57-year-old woman, under treatment for angina with 80 mg propranolol daily.
+DRUG-AE	10	21	The second is a 29-year-old man with CD in whom nodular sclerosing Hodgkin's lymphoma was diagnosed 3 weeks after infusion with infliximab.
+DRUG-DOSE	4	7	Fatal radiation myelopathy after high-dose busulfan and melphalan chemotherapy and radiotherapy for Ewing's sarcoma: a review of the literature and implications for practice.
+DRUG-DOSE	9	13	This entity is probably related to a combination of high doses of corticosteroids, vecuronium administration and metabolic abnormalities associated with respiratory failure.
+DRUG-AE	18	5	She continued to receive regular insulin 4 times per day over the following 3 years with only occasional hives.
+DRUG-DOSE	4	12	Three patients received respectively 190 mg, 175 mg, and 196 mg of methotrexate and developed bilateral pulmonary infiltrates without evidence of peripheral blood eosinophilia.
+DRUG-DOSE	17	5	Mean time between initiation of gemcitabine therapy and onset of HUS was 7.4 +/- 3.5 months, or 21.9 +/- 10.9 doses of gemcitabine.
+DRUG-AE	1	12	Postoperative hypocalcemic tetany caused by fleet phospho-soda preparation in a patient taking alendronate sodium: report of a case.
+DRUG-DOSE	7	6	Three of 50 patients treated with isotretinoin (1 mg/kg/day) for cystic acne complained of poor night vision and/or excessive glare sensitivity.
+DRUG-DOSE	17	18	A 17-year-old boy with acute lymphoblastic leukemia developed acute renal failure within 48 h of an intravenous high-dose methotrexate (5 g/m2) infusion.
+DRUG-DOSE	1	4	While 40 mg/day of prednisolone improved hepatic dysfunction dramatically, her diabetic milieu deteriorated seriously.
+DRUG-DOSE	23	15	We describe the development of cutaneous scleroderma in 3 patients coincident with the use of bleomycin in low cumulative doses of less than 100 U.
+DRUG-AE	16	10	This case report describes a patient who was previously prescribed alendronate (Fosamax) and presented with postoperative hypophosphatemia and hypocalcemic tetany after bowel preparation with Fleet Phospho-Soda.
+DRUG-DOSE	9	7	We report a case of hypoglycaemia after mefloquine therapy (1,500 mg over two days) for severe gastrointestinal cryptosporidiasis in a cachectic AIDS patient with protracted diarrhoea.
+DRUG-DOSE	5	16	An 83-year-old man receiving glipizide 10 mg bid developed symptomatic hypoglycemia within three days of adding trimethoprim/sulfamethoxazole (TMP/SMX) to his regimen.
+DRUG-DOSE	11	14	A patient with rheumatoid arthritis developed an acute intrahepatic cholestasis after 100 mg of sodium aurothiomalate.
+DRUG-DOSE	19	18	A 17-year-old boy with acute lymphoblastic leukemia developed acute renal failure within 48 h of an intravenous high-dose methotrexate (5 g/m2) infusion.
+DRUG-DOSE	9	12	An 11-year-old boy who was treated with a relatively high dose of methotrimeprazine meleate (Levemepromazine) a phenothiazine antipsychotic drug, was admitted to the pediatric intensive care unit suffering from respiratory distress syndrome.
+DRUG-AE	6	15	It carries a well-known risk of neutropenia and agranulocytosis, which necessitates the immediate discontinuation of clozapine.
+DRUG-DOSE	6	5	He was started on oral lansoprazole 60 mg twice daily and, on hospital day 2, his platelet count decreased to 102 x 10(3)/mm(3); on hospital day 3, the platelet count was 36 x 10(3)/mm(3).
+DRUG-AE	7	18	The patient had recurrence of urticaria and angioedema a year and a half later, at which point the NPH was stopped and she was desensitized to regular insulin.
+DRUG-DOSE	7	3	Aggressive management of doxorubicin-induced cardiomyopathy associated with 'low' doses of doxorubicin.
+DRUG-AE	0	7	Myotonia associated with sarcoidosis: marked exacerbation with pravastatin.
+DRUG-DOSE	5	7	Life-threatening acute hyponatraemia induced by low dose cyclophosphamide and indomethacin.
+DRUG-DOSE	6	12	Three patients received respectively 190 mg, 175 mg, and 196 mg of methotrexate and developed bilateral pulmonary infiltrates without evidence of peripheral blood eosinophilia.
+DRUG-DOSE	7	8	Bulbar and pseudobulbar palsy complicating therapy with high-dose cytosine arabinoside in children with leukemia.
+DRUG-DOSE	12	14	The fourth patient showed RLS symptoms that were initially caused by a 20-mg daily olanzapine dosage and were later mitigated when olanzapine was reduced and ropinirole was administered.
+DRUG-DOSE	9	14	An 11-year-old boy who was treated with a relatively high dose of methotrimeprazine meleate (Levemepromazine) a phenothiazine antipsychotic drug, was admitted to the pediatric intensive care unit suffering from respiratory distress syndrome.
+DRUG-AE	10	7	Ten to 15% of patients treated with ifosfamide develop an encephalopathy.
+DRUG-DOSE	0	1	High-dose methylprednisolone in a pregnant woman with Crohn's disease and adrenal suppression in her newborn.
+DRUG-DOSE	6	9	We report a case of unintentional overdose of oral pilocarpine tablets that resulted in bradycardia, mild hypotension, and muscarinic symptoms in a patient with Sjogren's syndrome.
+DRUG-AE	6	13	A 5-month-old infant became lethargic and poorly responsive after receiving 1 drop of brimonidine in each eye.
+DRUG-DOSE	8	9	Transient neurological disturbances induced by the chemotherapy of high-dose methotrexate for osteogenic sarcoma.
+DRUG-DOSE	12	5	We report five cases of carboplatin (CBDCA) hypersensitivity after weekly low-dose paclitaxel (60 mg/m2)/CBDCA (area under the concentration curve = 2) therapy in patients with recurrent ovarian cancer receiving multiple platinum-based chemotherapy.
+DRUG-DOSE	18	19	In a patient suffering from rheumatoid arthritis, we report the first simultaneous occurrence of two side effects of low-dose methotrexate: an acute megaloblastic anaemia and a pneumonitis.
+DRUG-AE	29	41	A 26-year-old Japanese man, who had been receiving medical attention for ulcerative colitis for one year, presented with diffuse erythema and pustules on his face and trunk, malaise, and fever up to 39 degrees C one day after the administration of salazosulfapyridine.
+DRUG-DOSE	8	7	Three days after receiving intravitreal injection of bevacizumab (1.25 mg in 0.1 ml), he developed acute vision loss and change of consciousness.
+DRUG-AE	5	18	The patient had recurrence of urticaria and angioedema a year and a half later, at which point the NPH was stopped and she was desensitized to regular insulin.
+DRUG-DOSE	29	22	CONCLUSIONS: Clinicians should be aware of a risk of serotonin syndrome with serious extrapyramidal reactions in patients receiving sertraline or venlafaxine when metoclopramide is coadministered even in a single, conventional dose.
+DRUG-AE	0	8	Cushing's syndrome persisted more than 6 months while TCA concentrations remained detectable for at least 80 days.
+DRUG-DOSE	20	19	This patient developed sequential symptoms including alternative hemiparesis, dysarthria and altered consciousness 5 days after the second course of HD-MTX (8 gm/m2 by 6 h continuous infusion) with leucovorin rescue.
+DRUG-AE	13	17	The objective of this report is to describe a case of fixed drug eruption that occurred during omeprazole treatment.
+DRUG-AE	8	14	A 66-year-old Japanese woman with severe scleroderma developed anemia and thrombocytopenia due to D-penicillamine (D-Pen) treatment, although the leukopenia was not markedly severe.
+DRUG-DOSE	15	16	In this case, it was suspected that a combination of cigarette smoking, pulmonary fibrosis, and low-dose methotrexate therapy might have promoted the development of lung cancer.
+DRUG-DOSE	25	24	We report here a 26-year-old female with diffuse large B-cell lymphoma who died of severe pulmonary fibrosis 81 days after the administration of high-dose BCNU (600 mg/m2).
+DRUG-AE	10	5	During the first days of arsenic trioxide treatment a rapid decrease in the D-dimers was seen (normal values reached until day 7), together with a slight decrease in peripheral blood leukocytes.
+DRUG-AE	4	11	These findings suggest that bicytopenia in this patient was caused by D-Pen and may be due to different sensitivities in the hematopoietic lineage.
+DRUG-AE	18	6	We describe the side effects of 5-FU in a colon cancer patient who suffered severe mucositis, desquamating dermatitis, prolonged myelosuppression, and neurologic toxicity that required admission to the intensive care unit.
+DRUG-AE	26	17	The case histories are presented of two patients who developed lung disease associated with the use of nitrofurantoin with histological features of bronchiolitis obliterans organising pneumonia (BOOP), a rare but recognised form of drug induced injury.
+DRUG-AE	1	5	Salicylate intoxication was excluded, and theophylline was finally incriminated.
+DRUG-DOSE	20	5	Neurologic symptoms resolved after stopping CAP for 4 weeks in Patient A, with no recurrence after reinitiating CAP alone at 2000 mg/m2.
+DRUG-AE	14	13	CONCLUSION: The results suggest that olanzapine may be useful in treating patients with clozapine-induced granulocytopenia without the risk of recurrence of hematologic side effects.
+DRUG-DOSE	12	11	The day after clozapine was stopped, while he was still receiving clomipramine 150 mg/d, he began behaving oddly, started sweating profusely, shivering, and became tremulous, agitated, and confused.
+DRUG-AE	7	15	OBJECTIVE: To report a case of marked elevation of serum creatine kinase (CK) associated with olanzapine therapy.
+DRUG-DOSE	17	16	We describe the infectious toxicities experienced by the first two patients in our institution treated with dexamethasone (10 mg/m(2)/day for 4 weeks with gradual tapering) during induction according to the dexamethasone arm of BFM 2000 and review the relevant literature that suggests an increased risk of infectious complications with dexamethasone.
+DRUG-DOSE	36	37	A 10-year-old boy with osteosarcoma and normal renal function manifested laboratory evidence of impending renal toxicity and extreme elevation of aspartate aminotrasferase and alanine aminotransferase within 2 hours after the completion of a 4-hour infusion of high-dose methotrexate (MTX) (12 g/m2), and went on to develop acute renal failure with life-threatening hyperkalemia 29 hours later.
+DRUG-AE	0	6	Protamine allergy as a complication of insulin hypersensitivity: A case report.
+DRUG-AE	10	0	Hydroxyurea (HU) and sodium phenylbutyrate (SPB) have been shown to increase fetal hemoglobin (Hb F) levels in patients with thalassemia intermedia.
+DRUG-DOSE	12	11	We report five cases of carboplatin (CBDCA) hypersensitivity after weekly low-dose paclitaxel (60 mg/m2)/CBDCA (area under the concentration curve = 2) therapy in patients with recurrent ovarian cancer receiving multiple platinum-based chemotherapy.
+DRUG-AE	7	4	We conclude that (a) cyclophosphamide is a human teratogen, (b) a distinct phenotype exists, and (c) the safety of CP in pregnancy is in serious question.
+DRUG-AE	23	20	We present a case of an elderly woman with a pre-existing history of ischaemic heart disease, who was treated with venlafaxine, and developed acute myocardial ischaemia within the first week of treatment.
+DRUG-DOSE	4	8	Visual loss after a single small dose of vincristine has never been reported.
+DRUG-DOSE	5	9	Life-threatening acute hyponatraemia induced by low dose cyclophosphamide and indomethacin.
+DRUG-DOSE	12	13	We report a case of a patient with rheumatoid arthritis treated with low-dose methotrexate (15 mg/week) who developed infection with both M. tuberculosis and M. chelonae after the revision of a prosthetic hip.
+DRUG-DOSE	16	21	We present three cases from the Provincial Toxicology Center of British Columbia, Canada in which suicidal overdose deaths were associated with quetiapine.
+DRUG-DOSE	1	0	Tiagabine overdose causes an unusual array of neurological symptoms, many similar to reported adverse effects during therapeutic use.
+DRUG-AE	1	0	Diclofenac-associated hepatitis.
+DRUG-DOSE	29	20	CONCLUSIONS: Clinicians should be aware of a risk of serotonin syndrome with serious extrapyramidal reactions in patients receiving sertraline or venlafaxine when metoclopramide is coadministered even in a single, conventional dose.
+DRUG-AE	20	8	The reported cases of in utero exposure to cyclosposphamide shared the following manifestations with our patient: growth deficiency, developmental delay, craniosynostosis, blepharophimosis, flat nasal bridge, abnormal ears, and distal limb defects including hypoplastic thumbs and oligodactyly.
+DRUG-AE	11	15	This is the first report of a possible association between an acute cardiovascular event and venlafaxine.
+DRUG-DOSE	22	26	We report the case of a 20-year-old female with polyarteritis nodosa (PAN) who developed bilateral sensorineural hearing loss 25 minutes after receiving 30 mg of intravenous ketoralac.
+DRUG-AE	21	8	The reported cases of in utero exposure to cyclosposphamide shared the following manifestations with our patient: growth deficiency, developmental delay, craniosynostosis, blepharophimosis, flat nasal bridge, abnormal ears, and distal limb defects including hypoplastic thumbs and oligodactyly.
+DRUG-DOSE	21	24	A 65-year-old woman with bipolar disorder and complicated cardiovascular disease who was on maintenance lithium therapy developed a movement disorder following high doses of trazodone for treatment of an acute depression.
+DRUG-DOSE	8	5	A small initial dose of prazosin ranging from 0.5 to 1 mg has been recommended to avoid the first-dose phenomenon characterized by a sudden and severe drop in blood pressure after the administration of the first dose of prazosin.
+DRUG-AE	1	6	Severe rhabdomyolysis following massive ingestion of oolong tea: caffeine intoxication with coexisting hyponatremia.
+DRUG-AE	5	22	A 22-year-old black man developed fever, chills, fatigue, night sweats, tender lymphadenopathy, and a generalized, pruritic, macular eruption 3 weeks after starting minocycline therapy for acne.
+DRUG-DOSE	7	3	Aggressive management of doxorubicin-induced cardiomyopathy associated with 'low' doses of doxorubicin.
+DRUG-DOSE	13	18	We report a fatal case of toxic epidermal necrolysis (TEN) resulting from a high dose of cytosine arabinoside (ARA-C).
+DRUG-AE	21	6	We describe the side effects of 5-FU in a colon cancer patient who suffered severe mucositis, desquamating dermatitis, prolonged myelosuppression, and neurologic toxicity that required admission to the intensive care unit.
+DRUG-AE	12	4	METHODS: The patient required insulin desensitization for severe urticaria, angioedema, and occasional wheezing resulting from her insulin dose.
+DRUG-DOSE	8	6	CASE REPORT: Soon after initiation of amiodarone HCl (200 mg/day), a 76-year-old man came to us with symptoms of visual "shining," glare, color vision anomalies, and gradually decreased vision.
+DRUG-AE	0	6	Acute generalized exanthematous pustulosis induced by salazosulfapyridine in a patient with ulcerative colitis.
+DRUG-DOSE	15	16	A 53-year-old male, without any prior history of psychosis, developed schizophrenia 4 days after starting low-dose bromocriptine therapy for a macroprolactinoma.
+DRUG-AE	10	18	Findings on discontinuation and rechallenge supported the assumption that the hair loss was a side effect of the paroxetine.
+DRUG-AE	12	4	After the addition of citalopram, a desmethylclomipramine plasma level increase and an 8-hydroacy-desmethylclomipramine plasma level decrease were observed.
+DRUG-DOSE	13	12	Patient A reported right leg weakness (foot drop) during week 4 of CAP-XRT (1600 mg/m2).
+DRUG-DOSE	17	16	We describe the infectious toxicities experienced by the first two patients in our institution treated with dexamethasone (10 mg/m(2)/day for 4 weeks with gradual tapering) during induction according to the dexamethasone arm of BFM 2000 and review the relevant literature that suggests an increased risk of infectious complications with dexamethasone.
+DRUG-DOSE	4	3	Esophageal spasm following propranolol overdose relieved by glucagon.
+DRUG-DOSE	16	25	We consider asterixis to be an easily overlooked sign of neurotoxicity, which may occur even at low or moderate dosage levels, if certain drugs as lithium or clozapine are used in combination with CBZ.
+DRUG-DOSE	8	11	On the fifth day after administration of a high dose of ARA-C (2 g/m2 intravenously every 12 hours), she developed bullous lesions on the hands and soles that disseminated, evolving to necrosis, sepsis, and death on the 22nd day.
+DRUG-AE	35	8	The reported cases of in utero exposure to cyclosposphamide shared the following manifestations with our patient: growth deficiency, developmental delay, craniosynostosis, blepharophimosis, flat nasal bridge, abnormal ears, and distal limb defects including hypoplastic thumbs and oligodactyly.
+DRUG-DOSE	14	16	Two patients are described who developed sensory neuropathy after the ingestion of 30.6 and 114 g metronidazole respectively.
+DRUG-DOSE	12	14	Renal hypophosphatemia in this patient was caused by the erroneous intake of 1 g doxycycline.
+DRUG-AE	22	13	OBJECTIVE: The purpose of this study was to determine whether desensitization to NPH insulin, as well as standard insulin desensitization, could control allergic symptoms in a patient allergic to both NPH and regular insulin.
+DRUG-AE	21	19	Ceftriaxone was approved in 1997 for the treatment of otitis media despite previous studies that documented an association of ceftriaxone with elevated hepato-biliary enzymes and transient biliary stasis.
+DRUG-AE	2	13	In vitro inhibition of hematopoiesis in a patient with systemic sclerosis treated with D-penicillamine.
+DRUG-DOSE	8	11	Two patients treated for chronic myeloid leukemia with high doses of CCNU (1100 mg/m2 and 1240 mg/m2, respectively) developed a fatal pulmonary fibrosis.
+DRUG-DOSE	4	5	CONCLUSIONS: Peripheral administration of low-dose vasopressin for septic shock should be discouraged because of the risk of ischemic skin complications.
+DRUG-AE	9	4	METHODS: The patient required insulin desensitization for severe urticaria, angioedema, and occasional wheezing resulting from her insulin dose.
+DRUG-AE	0	4	Elevated serum triglycerides with clozapine resolved with risperidone in four patients.
+DRUG-DOSE	20	23	We observed ventricular fibrillation in 2 patients who presented to the emergency department with pre-excited atrial fibrillation and were given 12 mg of adenosine.
+DRUG-DOSE	6	7	Early recognition of renal toxicity of high-dose methotrexate therapy: a case report.
+DRUG-AE	8	30	We describe the clinical response, as determined by increases in total Hb and decreased transfusion needs, in five patients with thalassemia intermedia treated with HU alone or in combination with SPB.
+DRUG-DOSE	4	3	A case of propranolol overdose complicated by esophageal spasm preventing extrication of an orogastric lavage tube and relieved by intravenous glucagon is presented.
+DRUG-DOSE	3	4	Interstitial pneumopathy and low-dosage amiodarone.
+DRUG-DOSE	20	19	A 56-year-old white woman with a diagnosis of reactive depression developed severe UI after a 30 days' treatment with venlafaxine 75 mg/day.
+DRUG-AE	6	9	We present three patients with paradoxical seizures; their serum phenytoin levels were 43.5 mcg/mL, 46.5 mcg/mL and 38.3 mcg/mL.
+DRUG-AE	9	3	The association between heparin and priapism is often recognized; abnormal platelet aggregation could play a role in the pathogenesis of this side effect.
+DRUG-DOSE	2	1	CONCLUSIONS: LTG overdose may result in a severe but reversible encephalopathy, a previously undescribed phenomenon.
+DRUG-AE	3	9	Thrombotic microangiopathy with renal failure in two patients undergoing gemcitabine chemotherapy.
+DRUG-DOSE	8	11	A case of severe visual loss following a single dose of vincristine is described.
+DRUG-DOSE	9	10	Peripheral nerve dysfunction is a potentially serious complication of high-dose cytosine arabinoside.
+DRUG-AE	32	8	The reported cases of in utero exposure to cyclosposphamide shared the following manifestations with our patient: growth deficiency, developmental delay, craniosynostosis, blepharophimosis, flat nasal bridge, abnormal ears, and distal limb defects including hypoplastic thumbs and oligodactyly.
+DRUG-DOSE	15	11	Two patients treated for chronic myeloid leukemia with high doses of CCNU (1100 mg/m2 and 1240 mg/m2, respectively) developed a fatal pulmonary fibrosis.
+DRUG-AE	14	11	BACKGROUND: How to best treat psychotic patients who have had past clozapine-induced agranulocytosis or granulocytopenia remains a problem.
+DRUG-DOSE	18	14	We describe a patient with a liver abscess due to Entamoeba histolytica, in whom metronidazole therapy (total dose, 21 g over 14 days) was complicated by reversible deafness, tinnitus, and ataxia and who relapsed 5 months later with a splenic abscess.
+DRUG-AE	8	6	Severe rhabdomyolysis following massive ingestion of oolong tea: caffeine intoxication with coexisting hyponatremia.
+DRUG-AE	6	16	We report a case of recurrent torsades de pointes following treatment with pentavalent antimonial drugs and amiodarone.
+DRUG-DOSE	6	8	Prominent positive U waves appearing with high-dose intravenous phenylephrine.
+DRUG-AE	8	8	Methylene blue in the treatment and prevention of ifosfamide-induced encephalopathy: report of 12 cases and a review of the literature.
+DRUG-AE	25	16	RESULTS: A 44-year-old man taking naproxen for chronic low back pain and a 20-year-old woman on oxaprozin for rheumatoid arthritis presented with tense bullae and cutaneous fragility on the face and the back of the hands.
+DRUG-AE	9	16	Although the two local anesthetics usually do not cause methemoglobinemia, we suspect that the displacement of lidocaine from protein binding by bupivacaine, in combination with metabolic acidosis and treatment with other oxidants, was the reason for the development of methemoglobinemia.
+DRUG-AE	6	14	Prolongation of the QT interval and ventricular tachyarrhymias have been described in patients on amiodarone therapy.
+DRUG-DOSE	23	24	We report here a 26-year-old female with diffuse large B-cell lymphoma who died of severe pulmonary fibrosis 81 days after the administration of high-dose BCNU (600 mg/m2).
+DRUG-AE	28	8	The reported cases of in utero exposure to cyclosposphamide shared the following manifestations with our patient: growth deficiency, developmental delay, craniosynostosis, blepharophimosis, flat nasal bridge, abnormal ears, and distal limb defects including hypoplastic thumbs and oligodactyly.
+DRUG-AE	16	24	This case report describes a patient who was previously prescribed alendronate (Fosamax) and presented with postoperative hypophosphatemia and hypocalcemic tetany after bowel preparation with Fleet Phospho-Soda.
+DRUG-AE	14	0	Calcipotriol (Daivonex R; Leo Pharmaceuticals, Zurich, Switzerland) may cause irritation of the skin, whereas allergic reactions are less common.
+DRUG-DOSE	34	32	An episode of leukoencephalopathy is reported in a 13-year-old girl who, after standard radiotherapy for a posterior fossa medulloblastoma, received 8 treatments with a protocol containing a 4-hour infusion of 500 mg/m2 methotrexate and 12 mg intrathecal methotrexate.
+DRUG-DOSE	10	11	We report five cases of carboplatin (CBDCA) hypersensitivity after weekly low-dose paclitaxel (60 mg/m2)/CBDCA (area under the concentration curve = 2) therapy in patients with recurrent ovarian cancer receiving multiple platinum-based chemotherapy.
+DRUG-AE	11	8	The presented patient was treated with 200 mg TCA and developed Cushing's syndrome 6 weeks later (cortisol and ACTH concentrations were below limits of detection, TCA concentrations were > 3 micrograms/l).
+DRUG-AE	1	4	Acute hyperphosphatemia caused by sodium phosphate enema in a patient with liver dysfunction and chronic renal failure.
+DRUG-AE	22	16	RESULTS: A 44-year-old man taking naproxen for chronic low back pain and a 20-year-old woman on oxaprozin for rheumatoid arthritis presented with tense bullae and cutaneous fragility on the face and the back of the hands.
+DRUG-DOSE	7	8	Toxic epidermal necrolysis after the use of high-dose cytosine arabinoside.
+DRUG-DOSE	7	9	METHODS: A 55-year-old woman became stuporous after overdose with lamotrigine (LTG) and valproic acid (VPA) tablets.
+DRUG-AE	9	4	METHODS: The patient required insulin desensitization for severe urticaria, angioedema, and occasional wheezing resulting from her insulin dose.
+DRUG-DOSE	12	16	Two patients are described who developed sensory neuropathy after the ingestion of 30.6 and 114 g metronidazole respectively.
+DRUG-AE	9	7	Emphasis is given to the differentiation of diphenylhydantoin induced gingival hyperplasia from the angiomatous enlargement of the gingiva before any treatment is planned.
+DRUG-AE	6	11	METHODS: We report two cases of pseudoporphyria caused by naproxen and oxaprozin.
+DRUG-AE	7	4	METHODS: The patient required insulin desensitization for severe urticaria, angioedema, and occasional wheezing resulting from her insulin dose.
+DRUG-AE	17	14	The purpose of this report is to document a new case of in utero CP exposure with multiple congenital anomalies and to establish an apparent CP embryopathy phenotype.
+DRUG-AE	7	6	We report the successful treatment of heparin-induced thrombocytopenia and subsequent hemorrhagic complications postoperatively in a 2-year-old child with Danaparoid (orgaran).
+DRUG-DOSE	7	14	METHODS: A 55-year-old woman became stuporous after overdose with lamotrigine (LTG) and valproic acid (VPA) tablets.
+DRUG-DOSE	10	11	Two children with rheumatic fever developed anicteric hepatitis while on high-dose aspirin therapy.
+DRUG-DOSE	25	28	We report on a patient with an embryonal teratocarcinoma of the testicle who had the syndrome of inappropriate secretion of antidiuretic hormone after receiving a high dose of vinblastine.
+DRUG-AE	21	3	CONCLUSION: Patients with insulin allergy may not have complete resolution of their symptoms after standard desensitization, particularly those patients with concomitant protamine allergy.
+DRUG-DOSE	13	17	The patient experienced hallucinations, agitation, vomiting, tachycardia and seizures after ingestion of 1050 (48 mg/kg) of extended-release bupropion.
+DRUG-DOSE	14	13	An episode of subacute encephalopathy after the infusion of a moderate dose of methotrexate (1500 mg/m2) (MTX) is reported in a young adult with metastastic gastric cancer.
+DRUG-AE	6	12	An 11-day-old infant became lethargic and apneic after a single drop of brimonidine.
+DRUG-DOSE	10	13	A 64-year-old man with schizophrenia developed myoclonic jerks when given higher doses of quetiapine.
+DRUG-DOSE	5	4	After therapy with parenteral amiodarone (2300 mg in 3 days) and other measures, signs of congestive heart failure disappeared; subsequently the patient developed jaundice, marked increase in serum transaminase levels and fall in prothrombin time, and histologic changes of severe centrilobular necrosis were observed in hepatic biopsy.
+DRUG-DOSE	2	1	Massive CBZ OD may produce a reversible encephalopathy that includes cortical hyperexcitability, a profound burst-suppression EEG pattern, and cranial nerve areflexia.
+DRUG-AE	10	14	A 66-year-old Japanese woman with severe scleroderma developed anemia and thrombocytopenia due to D-penicillamine (D-Pen) treatment, although the leukopenia was not markedly severe.
+DRUG-DOSE	39	38	A 10-year-old boy with osteosarcoma and normal renal function manifested laboratory evidence of impending renal toxicity and extreme elevation of aspartate aminotrasferase and alanine aminotransferase within 2 hours after the completion of a 4-hour infusion of high-dose methotrexate (MTX) (12 g/m2), and went on to develop acute renal failure with life-threatening hyperkalemia 29 hours later.
+DRUG-DOSE	6	7	In a 61-year-old man receiving chronic low-dosage amiodarone an interstitial pneumopathy was observed.
+DRUG-DOSE	16	15	Four cases of fat embolism are described in infants receiving prolonged intravenous infusion of fat (Intralipid 20%).
+DRUG-DOSE	18	14	We report a case of torsade de pointes following a single oral dose of amiodarone (1400 mg or 30 mg kg-1) administered after short intravenous loading for prevention of paroxysmal atrial flutter.
+DRUG-DOSE	5	7	Inappropriate antidiuretic hormone secretion after high dose vinblastine.
+DRUG-AE	13	6	In one case, the readministration of riluzole was followed by the relapse of hepatitis.
+DRUG-DOSE	22	4	Paraplegia following prophylactic intrathecal cytosine arabinoside (Ara-C) is described in a patient with acute myelogenous leukemia in remission who received doses of 100 mg/m2/d for 5 consecutive days.
+DRUG-AE	9	5	CONCLUSIONS: This case suggests that losartan can induce late-onset angioedema in patients with normal renal function and that the reaction can recur after initial resolution of the symptoms.
+DRUG-AE	9	0	Calcipotriol (Daivonex R; Leo Pharmaceuticals, Zurich, Switzerland) may cause irritation of the skin, whereas allergic reactions are less common.
+DRUG-DOSE	25	23	We report on 7 patients (2 women, 5 men) with chronic renal failure, who developed under a high dosage of the new diuretic muzolimine (range 240 to 1440 mg per day) fatal neuromyeloencephalopathy.
+DRUG-AE	10	14	To our knowledge, this is the first report of significant hypotension associated with intravenous valproate in the treatment of status epilepticus in the pediatric population.
+DRUG-AE	11	2	Hypersensitivity to aspirin can be manifested as acute asthma, urticaria and/or angioedema, or a systemic anaphylactoid reaction.
+DRUG-DOSE	19	22	A 74-year-old patient with idiopathic Parkinson's disease was evaluated for unintended sleep episodes that occurred after long-term treatment with 400 mg/day of L-dopa.
+DRUG-DOSE	30	32	An episode of leukoencephalopathy is reported in a 13-year-old girl who, after standard radiotherapy for a posterior fossa medulloblastoma, received 8 treatments with a protocol containing a 4-hour infusion of 500 mg/m2 methotrexate and 12 mg intrathecal methotrexate.
+DRUG-AE	14	20	We describe the clinical course of 2 patients with Crohn's disease (CD) in whom lymphoma was diagnosed after treatment with infliximab.
+DRUG-AE	22	5	The clinical course suggests that caffeine, which is present in oolong tea, was mainly responsible for the rhabdomyolysis as well as the delirium, although severe hyponatremia has been reported to cause rhabdomyolysis on rare occasions.
+DRUG-AE	0	19	Portal vein thrombosis in a patient with severe haemophilia A and F V G1691A mutation during continuous infusion of F VIII after intramural jejunal bleeding--successful thrombolysis under heparin therapy.
+DRUG-DOSE	14	15	Temporary neurologic abnormalities were observed in one out of 23 patients undergoing chemotherapy with high-dose methotrexate (HD-MTX) for osteogenic sarcoma.
+DRUG-DOSE	17	23	We report on 7 patients (2 women, 5 men) with chronic renal failure, who developed under a high dosage of the new diuretic muzolimine (range 240 to 1440 mg per day) fatal neuromyeloencephalopathy.
+DRUG-DOSE	7	4	After initiation of topical vitamin D3 ointment (20 micro g/g of tacalcitol) 10 g/day for the skin lesions, both the serum level of calcium and urinary excretion of calcium increased gradually.
+DRUG-DOSE	11	12	This is a report of a case of anuric ARF after high-dose mannitol infusion for treatment of narrow-angle glaucoma that readily responded to acute hemodialysis.
+DRUG-AE	6	12	We report a case of acute hyperphosphatemia secondary to rectal administration of sodium phosphate and sodium biphosphate (Fleet enema).
+DRUG-AE	1	0	Taxane-induced glaucoma.
+DRUG-AE	4	8	In both patients the rippling phenomena worsened with pyridostigmine treatment but markedly improved after immunosuppression with azathioprine.
+DRUG-DOSE	4	3	Multiple seizures after bupropion overdose in a small child.
+DRUG-AE	2	6	Allergic and irritant contact dermatitis to calcipotriol.
+DRUG-DOSE	19	14	This report describes an individual with mental retardation who experienced behavioral exacerbation associated with clonazepam prescribed at 2 mg/day (0.02 mg/kg/day) to treat aggression, self-injurious behavior, property destruction, and screaming, which was measured with a 15-minute partial interval recording measurement method.
+DRUG-DOSE	7	6	Phenytoin was discontinued after admission; however, phenytoin 1 g i.v. was given for a tonic-clonic seizure two days after admission, after which swelling of the face and legs and pruritus developed.
+DRUG-AE	14	2	Hypersensitivity to aspirin can be manifested as acute asthma, urticaria and/or angioedema, or a systemic anaphylactoid reaction.
+DRUG-DOSE	25	24	A 71-year-old man with paroxysmal atrial fibrillation who had a previous anterior myocardial infarction exhibited granulocytopenia 8 days following the administration of oral sustained-release procainamide (750 mg/day).
+DRUG-DOSE	39	37	A 10-year-old boy with osteosarcoma and normal renal function manifested laboratory evidence of impending renal toxicity and extreme elevation of aspartate aminotrasferase and alanine aminotransferase within 2 hours after the completion of a 4-hour infusion of high-dose methotrexate (MTX) (12 g/m2), and went on to develop acute renal failure with life-threatening hyperkalemia 29 hours later.
+DRUG-AE	4	13	A 5-month-old infant became lethargic and poorly responsive after receiving 1 drop of brimonidine in each eye.
+DRUG-AE	11	9	A 48-year-old woman who was treated for thyrotoxicosis with methimazole developed agranulocytosis.
+DRUG-DOSE	26	13	Pheripheral edema was observed in five female patients after taking proton pump inhibitors omeprazole, lansoprazole, or pantoprazole for 7-15 days for peptic acid diseases in recommended standard doses.
+DRUG-AE	0	14	Prolongation of the QT interval and ventricular tachyarrhymias have been described in patients on amiodarone therapy.
+DRUG-DOSE	13	16	We report a fatal case of toxic epidermal necrolysis (TEN) resulting from a high dose of cytosine arabinoside (ARA-C).
+DRUG-DOSE	6	7	We report an unusual case of massive fluoxetine ingestion resulting in neurological and cardiovascular toxicity resulting in death.
+DRUG-AE	1	0	Losartan-induced angioedema.
+DRUG-DOSE	5	8	Severe visual loss after a single dose of vincristine in a patient with spinal cord astrocytoma.
+DRUG-DOSE	7	6	Central nervous system manifestations of an ibuprofen overdose reversed by naloxone.
+DRUG-AE	15	9	Caution is, therefore, needed to prevent undesired accumulation of TCA that may lead to protracted Cushing's syndrome.
+DRUG-DOSE	17	20	Two other patients who did not receive prochlorperazine, developed retinal problems which later improved, one after only 15 g of desferrioxamine.
+DRUG-DOSE	21	14	A 65-year-old woman with bipolar disorder and complicated cardiovascular disease who was on maintenance lithium therapy developed a movement disorder following high doses of trazodone for treatment of an acute depression.
+DRUG-DOSE	12	3	The day after clozapine was stopped, while he was still receiving clomipramine 150 mg/d, he began behaving oddly, started sweating profusely, shivering, and became tremulous, agitated, and confused.
+DRUG-DOSE	15	14	Continuous EEG monitoring is helpful in managing seizures that occur as a complication of CBZ OD, after the course of recovery or worsening, and in providing assistance with prognosis.
+DRUG-DOSE	6	5	She continued to receive regular insulin 4 times per day over the following 3 years with only occasional hives.
+DRUG-DOSE	13	7	Drug-induced psychosis resulted from the administration of quinacrine hydrochloride at a dosage of 100 mg twice daily for the treatment of discoid lupus.
+DRUG-DOSE	14	12	Two years later, 24 hours following an increase in the dose of disopyramide from 300 to 600 mg/day, AVT with syncope occurred; isoproterenol abolished the arrhythmia instantly.
+DRUG-DOSE	11	12	We conclude that myocardial infarction may develop in patients treated with high-dose glucocorticoids for Graves' ophthalmopathy, and increased blood pressure may herald this complication.
+DRUG-DOSE	17	20	The first case concerns a 70-year-old man who developed severe aplastic anemia 7 weeks after treatment with 500 mg of ticlopidine daily.
+DRUG-AE	18	41	A 26-year-old Japanese man, who had been receiving medical attention for ulcerative colitis for one year, presented with diffuse erythema and pustules on his face and trunk, malaise, and fever up to 39 degrees C one day after the administration of salazosulfapyridine.
+DRUG-AE	26	12	We conclude that the presence of this metabolic defect combined with topical 5-FU (a drug demonstrating a narrow therapeutic index) results in the unusual presentation of life-threatening toxicity after treatment with a topical drug.
+DRUG-AE	5	27	The patient had recurrence of urticaria and angioedema a year and a half later, at which point the NPH was stopped and she was desensitized to regular insulin.
+DRUG-AE	0	4	Hepato-biliary abnormalities secondary to ceftriaxone use: a case report.
+DRUG-AE	9	14	A 14-year-old girl with newly diagnosed SLE developed a pruritic bullous eruption while on prednisone.
+DRUG-DOSE	22	23	CONCLUSIONS: Life-threatening adrenal suppression, requiring hydrocortisone supplementation and intensive therapy, was observed and successfully treated in a newborn, whose mother had received high-dose methylprednisolone in late pregnancy.
+DRUG-DOSE	13	12	DATA SYNTHESIS: A 49-year-old man developed symptoms of severe psychosis concomitant with ciprofloxacin (250 mg bid) treatment.
+DRUG-DOSE	18	10	A 53-year-old man developed lower leg edema 4 weeks after rosiglitazone was increased from 4 mg once/day to 4 mg twice/day.
+DRUG-AE	17	5	The clinical course suggests that caffeine, which is present in oolong tea, was mainly responsible for the rhabdomyolysis as well as the delirium, although severe hyponatremia has been reported to cause rhabdomyolysis on rare occasions.
+DRUG-AE	5	3	We hypothesize that caffeine toxicity injured the muscle cells, which were fragile due to the potassium depletion induced by the coexisting hyponatremia, to result in unusually severe rhabdomyolysis.
+DRUG-AE	17	8	Prolonged responses were achieved with low doses of HU (3-10 mg/kg/day) and higher doses were associated with mild reversible hematologic or hepatic toxicity and no further increases in Hb.
+DRUG-DOSE	25	24	A patient is presented with typical hyperthyroidism, who developed a severe proximal muscle weakness and a raised creatine phosphokinase after treatment for hyperthyroidism with propylthiouracil (100 mg orally, three times a day).
+DRUG-DOSE	26	16	Pheripheral edema was observed in five female patients after taking proton pump inhibitors omeprazole, lansoprazole, or pantoprazole for 7-15 days for peptic acid diseases in recommended standard doses.
+DRUG-DOSE	5	17	An 83-year-old man receiving glipizide 10 mg bid developed symptomatic hypoglycemia within three days of adding trimethoprim/sulfamethoxazole (TMP/SMX) to his regimen.
+DRUG-AE	3	9	In all cases, seizures were controlled by withdrawal of phenytoin and reduction of drug levels.
+DRUG-DOSE	22	6	Paraplegia following prophylactic intrathecal cytosine arabinoside (Ara-C) is described in a patient with acute myelogenous leukemia in remission who received doses of 100 mg/m2/d for 5 consecutive days.
+DRUG-AE	0	10	Methemoglobinemia after axillary block with bupivacaine and additional injection of lidocaine in the operative field.
+DRUG-AE	15	3	We hypothesize that caffeine toxicity injured the muscle cells, which were fragile due to the potassium depletion induced by the coexisting hyponatremia, to result in unusually severe rhabdomyolysis.
+DRUG-DOSE	7	6	One week after the initial-dose of adalimumab (160 mg), which was initiated due to an acute exacerbation of Crohn's disease, the patient developed a fulminant cardiomyopathy.
+DRUG-DOSE	8	9	A case of normotensive scleroderma renal crisis after high-dose methylprednisolone treatment.
+DRUG-AE	12	12	This compound, used by adults in the child's home, had caused accidental theophylline poisoning, mimicking diabetic ketoacidosis.
+DRUG-DOSE	6	5	Paradoxical cerebral cortical hyperexcitability following flupirtine overdose.
+DRUG-DOSE	16	14	The case reported here is of a child given a large dose of intravenous iron sucrose (16 mg/kg) over 3 hours, who subsequently developed features of systemic iron toxicity.
+DRUG-DOSE	29	32	A 53 year old Greenlandic male was admitted twice over a period of 4 years with a new complete right bundle branch block after ingestion of 10 g and 4 g of carbamazepine respectively.
